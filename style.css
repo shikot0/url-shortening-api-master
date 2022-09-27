@@ -5,9 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* html {
+html {
     scroll-behavior: smooth; 
-} */ 
+}
 h1, h2, h3 {
     color: hsl(255, 11%, 22%); 
 }
