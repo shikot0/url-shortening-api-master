@@ -1,0 +1,1 @@
+This was my first time using the a link shortening API so there may be some issues I'm unaware of, but so far it works just fine.
