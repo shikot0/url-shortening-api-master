@@ -213,7 +213,7 @@ form{
 .features-wrapper {
     display: flex;
     gap: 2%; 
-    margin: 15% 0;
+    margin: 15% 0 20%; 
     position: relative; 
 }
 .features-wrapper::after {
